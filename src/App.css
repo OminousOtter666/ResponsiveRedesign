@@ -1,0 +1,237 @@
+:root {
+  --color-black: #000505;
+  --color-dark-violet: #3B3355;
+  --color-violet: #5D5D81;
+  --color-light-violet: #BFCDE0;
+  --color-white: #FEFCFD;
+}
+
+
+body {
+  font-family: sans-serif;
+}
+
+.section-title {
+  font-size: 28px;
+  margin-bottom: 25px;
+}
+
+.section-subtitle {
+  font-size: 20px;
+  margin-left: 15px;
+}
+
+.app {
+  display: flex;
+  flex-direction: row;
+}
+
+.sidenav-container {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  position: fixed;
+  height: 100vh;
+  width: 220px;
+  padding: 15px;
+  background-color: var(--color-light-violet);
+}
+
+.sidenav-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: right;
+  font-size: 36px;
+  margin-bottom: 100px;
+  user-select: none;
+}
+
+.sidenav-options {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  font-size: 20px;
+  gap: 25px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  margin: 10px 0 0 250px;
+  color: var(--color-black);
+  width: 100%;
+  padding: 50px;
+}
+
+.sidenav-button > a{
+  color: var(--color-black);
+  text-decoration: none;
+}
+
+.sidenav-button > a:hover{
+  color: var(--color-violet);
+  text-decoration: none;
+}
+
+.section-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+hr {
+  color: var(--color-violet);
+  height: 300px;
+}
+
+#wimp-site {
+  width: 500px;
+  height: 300px;
+}
+
+#wimp-site:hover {
+  box-shadow: inset 0 0 var(--color-light-violet);
+  opacity: 80%;
+  cursor: pointer;
+  user-select: none;
+}
+
+.section-text {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 30px;
+}
+
+.section-image {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.link {
+  user-select: none;
+  cursor: pointer;
+}
+
+.link:hover {
+  color: var(--color-violet);
+}
+
+.link:active {
+  color: var(--color-light-violet);
+}
+
+.button-menu {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-evenly;
+  margin: 30px;
+}
+
+.section-button {
+  padding: 10px 20px;
+  background-color: var(--color-dark-violet);
+  color: var(--color-white);
+  border-radius: 5px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.section-button:hover,.site-button:hover {
+  background-color: var(--color-violet);
+}
+
+.section-button:active,.site-button:active {
+  box-shadow: 0 0 0 2px var(--color-light-violet);
+}
+
+.section-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#problem-img {
+  width: 850px;
+  height: 500px;
+}
+
+.section-caption {
+  height: 50px;
+}
+
+.bullet-content {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.desktop-img {
+  width: 800px;
+  height: 550px;
+}
+
+.mobile-img {
+  width: 450px;
+  height: 600px;
+}
+
+.tablet-img {
+  width: 600px;
+  height: 600px;
+}
+
+.desktop-hifi-img {
+  width: 1000px;
+  height: 700px;
+}
+
+.mobile-hifi-img {
+  width: 600px;
+  height: 600px;
+}
+
+.tablet-hifi-img {
+  width: 650px;
+  height: 600px;
+}
+
+.lofi-image {
+  height: 650px
+}
+
+.site-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 500px;
+  margin-bottom: 100px;
+  background-color: var(--color-dark-violet);
+  color: var(--color-white);
+  cursor: pointer;
+  user-select: none;
+  border-radius: 15px;
+  font-size: 30px;
+}
+
+.site-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#component-img {
+  width: 700px;
+  height: 700px;
+  margin-top: 20px;
+}
