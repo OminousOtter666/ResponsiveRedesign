@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ResponsiveRedesign/static/css/main.790f0137.css",
+    "main.js": "/ResponsiveRedesign/static/js/main.d2cef1d3.js",
+    "static/js/787.d39d6d8a.chunk.js": "/ResponsiveRedesign/static/js/787.d39d6d8a.chunk.js",
+    "static/media/wimp-site.png": "/ResponsiveRedesign/static/media/wimp-site.1c20d788adc08a2f626d.png",
+    "static/media/wimp-site-redundant.png": "/ResponsiveRedesign/static/media/wimp-site-redundant.afbbefa3982c0a743b7c.png",
+    "static/media/wimp-site-navigation.png": "/ResponsiveRedesign/static/media/wimp-site-navigation.d4658f488d8dee19a5f5.png",
+    "static/media/wimp-site-spacing.png": "/ResponsiveRedesign/static/media/wimp-site-spacing.d7df83a8719f248cba8c.png",
+    "static/media/wimp-site-filter.png": "/ResponsiveRedesign/static/media/wimp-site-filter.673aa4c72ff3d17d8faf.png",
+    "static/media/wimp-site-search.png": "/ResponsiveRedesign/static/media/wimp-site-search.366ddcd7e1db5d0a426c.png",
+    "static/media/desktop-hifi.png": "/ResponsiveRedesign/static/media/desktop-hifi.b68a1be3ce09d06e3431.png",
+    "static/media/tablet-hifi.png": "/ResponsiveRedesign/static/media/tablet-hifi.c397990ed84a423cd131.png",
+    "static/media/mobile-hifi.png": "/ResponsiveRedesign/static/media/mobile-hifi.04dddb839e78f696aad1.png",
+    "static/media/components.png": "/ResponsiveRedesign/static/media/components.54482e18eed744e724d0.png",
+    "static/media/desktop-lofi.png": "/ResponsiveRedesign/static/media/desktop-lofi.fda466c3604221023ab3.png",
+    "static/media/mobile-lofi.png": "/ResponsiveRedesign/static/media/mobile-lofi.962ff6f1f70475304514.png",
+    "static/media/tablet-lofi.png": "/ResponsiveRedesign/static/media/tablet-lofi.5f96f6979654125c5236.png",
+    "index.html": "/ResponsiveRedesign/index.html",
+    "main.790f0137.css.map": "/ResponsiveRedesign/static/css/main.790f0137.css.map",
+    "main.d2cef1d3.js.map": "/ResponsiveRedesign/static/js/main.d2cef1d3.js.map",
+    "787.d39d6d8a.chunk.js.map": "/ResponsiveRedesign/static/js/787.d39d6d8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.790f0137.css",
+    "static/js/main.d2cef1d3.js"
+  ]
+}
